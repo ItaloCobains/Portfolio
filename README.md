@@ -56,5 +56,3 @@
 #### Framework: Express
 
 <a href="https://github.com/ItaloCobains/Mercado-Python"><img title="starbucks" alt="starbucks" src="assets/img/git.png" width="50"></a>
-
-

@@ -421,6 +421,10 @@ img{
     color: var(--first-color-alt);
 }
 
+#margin_left{
+    margin-left: 20px;
+}
+
 /*==================== ABOUT ====================*/
 
 .about__img{
@@ -543,11 +547,11 @@ img{
 }
 
 .skills__js{
-    width: 50%;
+    width: 80%;
 }
 
 .skills__react{
-    width: 0%;
+    width: 50%;
 }
 
 .skills__python{
@@ -555,7 +559,7 @@ img{
 }
 
 .skills__node{
-    width: 30%;
+    width: 70%;
 }
 
 .skills__c{
