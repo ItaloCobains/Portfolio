@@ -551,7 +551,7 @@ img{
 }
 
 .skills__react{
-    width: 50%;
+    width: 10%;
 }
 
 .skills__python{
@@ -559,11 +559,11 @@ img{
 }
 
 .skills__node{
-    width: 70%;
+    width: 50%;
 }
 
 .skills__c{
-    width: 50%;
+    width: 20%;
 }
 
 .skills__php{
